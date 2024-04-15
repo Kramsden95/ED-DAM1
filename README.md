@@ -1,9 +1,9 @@
 # ED-DAM1
 
 1.Hemos creado las clases requeridas con sus respectivos Getters, Setters, Constructores, ToStrings. <br>
-2.Nos hemos asegurado de que las herencias estaban tal y como salia en el diagrama.<br>
+2.Nos hemos asegurado de que las herencias estaban tal y como salia en el diagrama. Esto se hace con "extends" y añadiendo los atributos del padre con super en el constructor del hijo<br>
 3.Hemos añadido las clases abstractas (Nombres Cursiva) y interfaces necesarias.<br>
-4.Hemos hecho la relacion Diamante Blanco (Juguete - Niño) y Diamante Negro (Motor - Barco).<br>
+4.Hemos hecho la relacion Agregacion ((Diamante Blanco)Juguete - Niño) y Composicion  ((Diamante Negro)Motor - Barco).<br>
 5. Finalmente nos hemos asegurado de que:<br>
       - Privado<br>
       + Publico<br>
